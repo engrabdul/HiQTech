@@ -1,1 +1,1 @@
-# hiiqtech
+# hiqtech
